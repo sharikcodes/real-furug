@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/real-furug/static/css/main.ba704cd0.css",
+    "main.js": "/real-furug/static/js/main.b69ea971.js",
+    "static/js/787.28cb0dcd.chunk.js": "/real-furug/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/real-furug/index.html",
+    "main.ba704cd0.css.map": "/real-furug/static/css/main.ba704cd0.css.map",
+    "main.b69ea971.js.map": "/real-furug/static/js/main.b69ea971.js.map",
+    "787.28cb0dcd.chunk.js.map": "/real-furug/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba704cd0.css",
+    "static/js/main.b69ea971.js"
+  ]
+}
